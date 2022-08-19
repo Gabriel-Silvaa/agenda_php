@@ -7,9 +7,9 @@
 
 ## Resultado Final
 
-![image](https://raw.githubusercontent.com/Gabriel-Silvaa/agenda_php/main/agenda.png)
+![image](https://raw.githubusercontent.com/Gabriel-Silvaa/agenda_php/main/img/agenda.png)
 
-![image](https://raw.githubusercontent.com/Gabriel-Silvaa/agenda_php/main/agenda2.png)
+![image](https://raw.githubusercontent.com/Gabriel-Silvaa/agenda_php/main/img/agenda2.png)
 
 
 
