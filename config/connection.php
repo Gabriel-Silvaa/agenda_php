@@ -1,9 +1,9 @@
 <?php
 
 $host = "localhost";
-$user = "gabrielroot";
-$pass = "rootgates";
-$dbname = "agenda";
+$user = "nomedousuario";
+$pass = "senhadousuario";
+$dbname = "nomedobanco";
 
 
 try {
